@@ -9,9 +9,9 @@ Por **motivos de segurança da informação e confidencialidade**, o código pub
 As seguintes mudanças foram aplicadas antes da publicação:
 
 1. **Remoção de trechos de código** que continham lógica interna sensível.
-2. **Substituição de links internos** por URLs públicas ou fictícias.
+2. **Substituição de links internos** por URLs fictícias.
 3. **Renomeação de variáveis, funções e caminhos** para evitar exposição de padrões internos.
-4. **Omissão de arquivos de configuração** contendo credenciais ou informações de rede.
+4. **Omissão de arquivos de configuração** contendo informações de rede.
 
 ---
 
